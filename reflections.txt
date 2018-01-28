@@ -1,0 +1,16 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here.
+ Answer the following questions:
+  
+ What new skills have you learned?
+  
+I have learned how to include links, images and page breaks/ 
+ What has been easy?
+ 
+It wasn't the difficult. The hardest part were the typos.  
+ What has been difficult?
+  
+Avoiding typos. The stop the entire code from running. 
+ How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+
+My overall, challenge is figuring out how to push and pull to Github from the command line 
